@@ -1,6 +1,7 @@
 # links-to-same-domain
 > Note: The repo is unmaintained so do not open any issue or send any PR ;)
 
+![GitHub](https://img.shields.io/github/license/Bhupesh-V/links-to-same-domain?style=flat-square)
 
 ## Installation
 
